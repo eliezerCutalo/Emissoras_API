@@ -1,0 +1,16 @@
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Core_MVC.Data.deps.json
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Core_MVC.Data.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Core_MVC.Data.pdb
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Core_MVC.Domain.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Core_MVC.Domain.pdb
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.AssemblyInfo.cs
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.csproj.CopyComplete
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Data\obj\Debug\netstandard2.0\Core_MVC.Data.pdb

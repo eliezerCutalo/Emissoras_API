@@ -1,0 +1,16 @@
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Core_MVC.Domain.deps.json
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Core_MVC.Domain.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.AssemblyInfo.cs
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.csproj.CopyComplete
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Core_MVC.Domain.pdb
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.dll
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.pdb
+C:\Users\eliez\source\repos\Core_MVC\Core_MVC.Domain\obj\Debug\netstandard2.0\Core_MVC.Domain.csprojAssemblyReference.cache
